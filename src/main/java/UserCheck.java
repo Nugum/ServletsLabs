@@ -1,5 +1,3 @@
-package com.my.servlet;
-
 import java.util.ArrayList;
 
 public class UserCheck {

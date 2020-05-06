@@ -1,5 +1,3 @@
-package com.my.servlet;
-
 import java.io.Serializable;
 
 public class User implements Serializable {
